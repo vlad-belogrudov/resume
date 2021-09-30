@@ -5,4 +5,4 @@ resume.dvi: resume.tex
 	latex $<
 
 clean:
-	rm -f *.out *.log *.dvi *.aux *.pdf
+	rm -f *.out *.log *.dvi *.aux
